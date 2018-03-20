@@ -6,7 +6,7 @@ import auto.ejb.LeihvertragBean;
 import auto.jpa.Fahrzeug;
 import auto.jpa.Kunde;
 import auto.jpa.Leihvertrag;
-import auto_server.exceptions.NotAvailableException;
+import auto.exceptions.NotAvailableException;
 
 import java.util.Date;
 import java.util.List;
